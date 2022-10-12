@@ -1,0 +1,4 @@
+enum Setting{
+  percentage,
+  symbol,
+}
